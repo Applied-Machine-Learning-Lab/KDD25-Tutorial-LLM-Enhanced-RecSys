@@ -5,37 +5,39 @@ permalink: /about
 subtitle:
 nav: true
 ---
-# AgentIR: 1st Workshop on Agent-based Information Retrieval
+# AgentIR: 2nd Workshop on Agent-based Information Retrieval
 
 <div>
-<img src="assets/img/logo.jpg" width="30%" style="margin-left:35%; margin-right:30%">
+<!-- <img src="../assets/img/padova.jpg" width="70%" style="margin-left:35%; margin-right:30%"> -->
+<img src="../assets/img/padova.jpg" width="100%">
 </div>
 ---
 
 ## Introduction
-Welcome to AgentIR: 1st Workshop on Agent-based Information Retrieval!
-Information retrieval (IR) systems have become an essential component in modern society to help users find useful information, which 
-consists of a series of processes including query expansion, item recall, item ranking and re-ranking, etc. Based on the ranked information list, users can provide their feedbacks.
-Such an interaction process between users and IR systems can be naturally formulated as a decision-making problem, which can be either one-step or sequential.
-In the last ten years, deep reinforcement learning (DRL) has become a promising direction for decision-making, since DRL utilizes the high model capacity of deep learning for complex decision-making tasks.
-On the one hand, there have been emerging research works focusing on leveraging DRL for IR tasks. However, the fundamental information theory under DRL settings, the challenge of RL methods for Industrial IR tasks, or the simulations of DRL-based IR systems, has not been deeply investigated. On the other hand, the emerging LLM provides new opportunities for optimizing and simulating IR systems. 
-AgentIR provides a venue for both academia researchers and industry practitioners to present the recent advances of both DRL-based IR systems and LLM-based IR systems from the agent-based IR’s perspective, to foster novel research, interesting findings, and new applications. 
+Welcome to AgentIR: 2nd Workshop on Agent-based Information Retrieval!
+
+Information retrieval (IR) systems are essential in modern society, aiding users to efficiently locate relevant information through query expansion, document retrieval, ranking, and re-ranking. User feedback from ranked outputs forms a dynamic interaction loop with IR systems, which can be modeled as either one-time or sequential decision-making problems.
+Over the past decade, deep reinforcement learning (DRL) has emerged as a promising approach to decision-making, leveraging the high model capacity of deep learning for complex tasks. While significant research has explored the application of DRL to IR tasks, several fundamental challenges remain underexplored, including the underlying information theory in DRL settings, the limitations of reinforcement learning methods for industrial IR applications, and the simulation of DRL-based IR systems. Concurrently, the advent of large language models (LLMs) has introduced new opportunities for optimizing and simulating IR systems.
+Building on the success of the Agent-based IR Workshop at SIGIR 2024, we propose hosting the second Agent-based IR Workshop at SIGIR 2025. This workshop will continue to provide a platform for researchers and practitioners from academia and industry to present cutting-edge advances in DRL-based and LLM-based IR systems from an agent-based perspective. By building on the foundation laid in the first workshop, the 2025 edition aims to delve deeper into emerging research challenges, foster collaborations, and explore innovative applications. Through engaging discussions and insightful presentations, the workshop seeks to further expand the boundaries of IR research and solidify its role as a premier venue for advancing agent-based IR systems.
 
 ## Attendance
-- When: July 18, 2024
+- When: July 17, 2025
 - Where: 
-  - In-person participation: The workshop will be an in-person event and to be held in room Ohio in the Capital Hilton Hotel, Washington D.C., US.
-  - Online participation: You can also join the workshop virtually at [Zoom](https://hkust.zoom.us/j/95344753065?pwd=4Teu4Y3Ot9i8sWhuoaBK7sBXDhfRbe.1).
+  - In-person participation: The workshop will be an in-person event and to be held in (TBA), Padova, Italy.
+  - Online participation: You can also join the workshop virtually at [Zoom]().
 
 ## Invited Speakers
-<div class="row row-cols-2 projects pt-3 pb-3">
+
+TBA
+<!-- <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Julian McAuley" affiliation="UC San Diego" url="https://cseweb.ucsd.edu/~jmcauley/" img="assets/img/jm.jpg" %}
   {% include people_horizontal.html name="Yongfeng Zhang" affiliation="Rutgers University" url="https://www.yongfeng.me/" img="assets/img/yz.jpg" %}
   {% include people_horizontal.html name="Song Zuo" affiliation="Google" url="https://sites.google.com/view/songzuo" img="assets/img/sz.jpg" %}
-  </div>
+</div> -->
 
 ## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Pengyue Jia" affiliation="City University of Hong Kong" url="https://jia-py.github.io/" img="assets/img/jpy.jpg" %}
   {% include people_horizontal.html name="Qingpeng Cai" affiliation="Kuaishou" url="https://qingpengcai.github.io/" img="assets/img/qc.jpg" %}
   {% include people_horizontal.html name="Xiangyu Zhao" affiliation="City University of Hong Kong" url="https://zhaoxyai.github.io/" img="assets/img/xz.jpg" %}
   {% include people_horizontal.html name="Ling Pan" affiliation="Hong Kong University of Science and Technology" url="https://ling-pan.github.io/" img="assets/img/lp.jpg" %}
@@ -48,6 +50,6 @@ AgentIR provides a venue for both academia researchers and industry practitioner
   </div>
 
 ## Contact
-If you have any questions, please contact us at cqpcurry@gmail.com.
+If you have any questions, please contact us at jia.pengyue@my.cityu.edu.hk.
 
 
