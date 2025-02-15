@@ -7,16 +7,18 @@ nav: true
 ---
 # AgentIR: 2nd Workshop on Agent-based Information Retrieval
 
+<style>
 .img-fit-cover {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* 保持比例裁剪 */
-  object-position: center; /* 确保裁剪部分居中 */
+  object-fit: cover;
+  object-position: center;
 }
+</style>
 
 <div>
 <!-- <img src="../assets/img/padova.jpg" width="70%" style="margin-left:35%; margin-right:30%"> -->
-<img src="/assets/img/padova.jpg" width="100%">
+<img src="assets/img/padova.jpg" width="100%">
 </div>
 ---
 
