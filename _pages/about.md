@@ -7,9 +7,16 @@ nav: true
 ---
 # AgentIR: 2nd Workshop on Agent-based Information Retrieval
 
+.img-fit-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* 保持比例裁剪 */
+  object-position: center; /* 确保裁剪部分居中 */
+}
+
 <div>
 <!-- <img src="../assets/img/padova.jpg" width="70%" style="margin-left:35%; margin-right:30%"> -->
-<img src="../assets/img/padova.jpg" width="100%">
+<img src="/assets/img/padova.jpg" width="100%">
 </div>
 ---
 
@@ -28,26 +35,23 @@ Building on the success of the Agent-based IR Workshop at SIGIR 2024, we propose
 
 ## Invited Speakers
 
-TBA
-<!-- <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Julian McAuley" affiliation="UC San Diego" url="https://cseweb.ucsd.edu/~jmcauley/" img="assets/img/jm.jpg" %}
-  {% include people_horizontal.html name="Yongfeng Zhang" affiliation="Rutgers University" url="https://www.yongfeng.me/" img="assets/img/yz.jpg" %}
-  {% include people_horizontal.html name="Song Zuo" affiliation="Google" url="https://sites.google.com/view/songzuo" img="assets/img/sz.jpg" %}
-</div> -->
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Coming Soon" affiliation="Coming Soon" url="" img="assets/img/" class="img-fit-cover" %}
+</div>
 
 ## Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Pengyue Jia" affiliation="City University of Hong Kong" url="https://jia-py.github.io/" img="assets/img/jpy.jpg" %}
-  {% include people_horizontal.html name="Qingpeng Cai" affiliation="Kuaishou" url="https://qingpengcai.github.io/" img="assets/img/qc.jpg" %}
-  {% include people_horizontal.html name="Xiangyu Zhao" affiliation="City University of Hong Kong" url="https://zhaoxyai.github.io/" img="assets/img/xz.jpg" %}
-  {% include people_horizontal.html name="Ling Pan" affiliation="Hong Kong University of Science and Technology" url="https://ling-pan.github.io/" img="assets/img/lp.jpg" %}
-  {% include people_horizontal.html name="Xin Xin" affiliation="Shandong University" url="https://xinxin-me.github.io/" img="assets/img/xx.jpg" %}
-  {% include people_horizontal.html name="Jin Huang" affiliation="University of Amsterdam" url="https://betsyhj.github.io/" img="assets/img/jh.jpg" %}
-  {% include people_horizontal.html name="Weinan Zhang" affiliation="Shanghai Jiaotong University" url="https://wnzhang.net/" img="assets/img/wz.jpg" %}
-  {% include people_horizontal.html name="Li Zhao" affiliation="Microsoft Research Asia" url="https://www.microsoft.com/en-us/research/people/lizo/" img="assets/img/lz.jpg" %}
-  {% include people_horizontal.html name="Dawei Yin" affiliation="Baidu" url="https://www.yindawei.com/" img="assets/img/dy.jpg" %}
-  {% include people_horizontal.html name="Grace Hui Yang" affiliation="Georgetown University" url="https://infosense.cs.georgetown.edu/grace/" img="assets/img/ghy.jpg" %}
-  </div>
+  {% include people_horizontal.html name="Pengyue Jia" affiliation="City University of Hong Kong" url="https://jia-py.github.io/" img="assets/img/jpy.jpg" class="img-fit-cover" %}
+  {% include people_horizontal.html name="Qingpeng Cai" affiliation="Kuaishou" url="https://qingpengcai.github.io/" img="assets/img/qc.jpg" class="img-fit-cover" %}
+  {% include people_horizontal.html name="Xiangyu Zhao" affiliation="City University of Hong Kong" url="https://zhaoxyai.github.io/" img="assets/img/xz.jpg" class="img-fit-cover" %}
+  {% include people_horizontal.html name="Ling Pan" affiliation="Hong Kong University of Science and Technology" url="https://ling-pan.github.io/" img="assets/img/lp.jpg" class="img-fit-cover" %}
+  {% include people_horizontal.html name="Xin Xin" affiliation="Shandong University" url="https://xinxin-me.github.io/" img="assets/img/xx.jpg" class="img-fit-cover" %}
+  {% include people_horizontal.html name="Jin Huang" affiliation="University of Amsterdam" url="https://betsyhj.github.io/" img="assets/img/jh.jpg" class="img-fit-cover" %}
+  {% include people_horizontal.html name="Weinan Zhang" affiliation="Shanghai Jiaotong University" url="https://wnzhang.net/" img="assets/img/wz.jpg" class="img-fit-cover" %}
+  {% include people_horizontal.html name="Li Zhao" affiliation="Microsoft Research Asia" url="https://www.microsoft.com/en-us/research/people/lizo/" img="assets/img/lz.jpg" class="img-fit-cover" %}
+  {% include people_horizontal.html name="Dawei Yin" affiliation="Baidu" url="https://www.yindawei.com/" img="assets/img/dy.jpg" class="img-fit-cover" %}
+  {% include people_horizontal.html name="Grace Hui Yang" affiliation="Georgetown University" url="https://infosense.cs.georgetown.edu/grace/" img="assets/img/ghy.jpg" class="img-fit-cover" %}
+</div>
 
 ## Contact
 If you have any questions, please contact us at jia.pengyue@my.cityu.edu.hk.
