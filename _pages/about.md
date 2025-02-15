@@ -31,7 +31,7 @@ Building on the success of the Agent-based IR Workshop at SIGIR 2024, we propose
 TBA
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  <!-- {% include people_horizontal.html name="Coming Soon" affiliation="Coming Soon" url="" img="assets/img/" %} -->
+  {% include people_horizontal.html name="Coming Soon" affiliation="" url="" img="assets/img/logo.jpg" %}
 </div>
 
 ## Organizers
