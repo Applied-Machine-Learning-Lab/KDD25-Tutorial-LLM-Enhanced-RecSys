@@ -17,8 +17,8 @@ nav: true
 </style>
 
 <div>
-<!-- <img src="../assets/img/padova.jpg" width="70%" style="margin-left:35%; margin-right:30%"> -->
-<img src="assets/img/padova.jpg" width="100%">
+<img src="../assets/img/logo.jpg" width="70%" style="margin-left:35%; margin-right:30%">
+<!-- <img src="assets/img/padova.jpg" width="100%"> -->
 </div>
 ---
 
