@@ -8,7 +8,7 @@ nav: true
 # AgentIR: 2nd Workshop on Agent-based Information Retrieval
 
 <div>
-<img src="assets/img/logo.jpg" width="70%" style="margin-left:35%; margin-right:30%">
+<img src="assets/img/logo.jpg" width="30%" style="margin-left:35%; margin-right:30%">
 <!-- <img src="assets/img/padova.jpg" width="100%"> -->
 </div>
 ---
