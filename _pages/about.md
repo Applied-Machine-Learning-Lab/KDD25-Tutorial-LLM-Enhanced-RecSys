@@ -20,6 +20,30 @@ Information retrieval (IR) systems are essential in modern society, aiding users
 Over the past decade, deep reinforcement learning (DRL) has emerged as a promising approach to decision-making, leveraging the high model capacity of deep learning for complex tasks. While significant research has explored the application of DRL to IR tasks, several fundamental challenges remain underexplored, including the underlying information theory in DRL settings, the limitations of reinforcement learning methods for industrial IR applications, and the simulation of DRL-based IR systems. Concurrently, the advent of large language models (LLMs) has introduced new opportunities for optimizing and simulating IR systems.
 Building on the success of the Agent-based IR Workshop at SIGIR 2024, we propose hosting the second Agent-based IR Workshop at SIGIR 2025. This workshop will continue to provide a platform for researchers and practitioners from academia and industry to present cutting-edge advances in DRL-based and LLM-based IR systems from an agent-based perspective. By building on the foundation laid in the first workshop, the 2025 edition aims to delve deeper into emerging research challenges, foster collaborations, and explore innovative applications. Through engaging discussions and insightful presentations, the workshop seeks to further expand the boundaries of IR research and solidify its role as a premier venue for advancing agent-based IR systems.
 
+## Submission Instructions
+
+All submissions (.pdf format) must be written in English and use the latest template of ACM SIGIR 2025 available at http://www.acm.org/publications/proceedings-template. The concepts and keywords are required. Submissions can be of varying length from 4 to 8 pages. References do not count against the page limit. All submissions must be original and not simultaneously submitted to another journal or conference. 
+
+Papers that include text generated from a large language model (LLM) such as ChatGPT are prohibited unless this produced text is presented as a part of the paper’s experimental analysis. AI tools may be used to edit and polish authors’ work, such as using LLMs for light editing of their own text (e.g., automate grammar checks, word autocorrect, and other editing work), but text “produced entirely” by AI is not allowed. 
+
+All submissions will be double-blind peer reviewed by the program committee and judged by their relevance to the workshop, scientific novelty, and technical quality. 
+
+Please note that at least one of the authors of each accepted paper must register for the workshop and present the paper either remotely or on location (strongly preferred). 
+
+We encourage but do not require authors to release any code and/or datasets associated with their paper.
+
+Submission website: https://easychair.org/conferences?conf=agentir2025
+
+## Important Dates
+
+Time zone: Anywhere on Earth (AoE)
+
+Submission deadline: April 23, 2025
+
+Acceptance notification: May 21, 2025
+
+Agent4IR Workshop: July 17, 2025
+
 ## Attendance
 - When: July 17, 2025
 - Where: 
