@@ -22,7 +22,7 @@ Building on the success of the Agent-based IR Workshop at SIGIR 2024, we propose
 
 ## Submission Instructions
 
-All submissions (.pdf format) must be written in English and use the latest template of ACM SIGIR 2025 available at [http://www.acm.org/publications/proceedings-template](http://www.acm.org/publications/proceedings-template). The concepts and keywords are required. Submissions can be of varying length from 4 to 8 pages. References do not count against the page limit. All submissions must be original and not simultaneously submitted to another journal or conference. 
+All submissions (.pdf format) must be written in English and use the latest template of ACM SIGIR 2025 available at [http://www.acm.org/publications/proceedings-template](http://www.acm.org/publications/proceedings-template). The concepts and keywords are required. Submissions can be of varying length from 4 to 9 pages. References do not count against the page limit. All submissions must be original and not simultaneously submitted to another journal or conference. 
 
 Papers that include text generated from a large language model (LLM) such as ChatGPT are prohibited unless this produced text is presented as a part of the paper’s experimental analysis. AI tools may be used to edit and polish authors’ work, such as using LLMs for light editing of their own text (e.g., automate grammar checks, word autocorrect, and other editing work), but text “produced entirely” by AI is not allowed. 
 
