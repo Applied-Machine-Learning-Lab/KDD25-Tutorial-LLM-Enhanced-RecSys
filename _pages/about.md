@@ -52,7 +52,7 @@ Agent4IR Workshop: July 17, 2025
 
 ## Invited Speakers
 
-TBA
+<!-- TBA -->
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Zhou Yu" affiliation="Columbia University" url="https://www.cs.columbia.edu/~zhouyu/" img="assets/img/ZhouYu.jpg" %}
