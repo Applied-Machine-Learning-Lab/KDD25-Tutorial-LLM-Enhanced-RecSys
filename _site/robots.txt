@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: http://localhost:4000/KDD25-Tutorial-LLM-Enhanced-RecSys/# the subpath of your site, e.g. /blog//sitemap.xml

@@ -1,7 +1,4 @@
----
-permalink: /robots.txt
----
 User-agent: *
 Disallow:
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Sitemap: https://Applied-Machine-Learning-Lab.github.io/KDD25-Tutorial-LLM-Enhanced-RecSys/# the subpath of your site, e.g. /blog//sitemap.xml
