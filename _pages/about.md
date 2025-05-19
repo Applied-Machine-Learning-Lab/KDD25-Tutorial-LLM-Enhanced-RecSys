@@ -55,8 +55,8 @@ Agent4IR Workshop: July 17, 2025 -->
 </div> -->
 
 ## Tutors
-<!-- <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Pengyue Jia" affiliation="City University of Hong Kong" url="https://jia-py.github.io/" img="assets/img/jpy.jpg" %}
+<!-- <div class="row row-cols-2 projects pt-3 pb-3"> -->
+  <!-- {% include people_horizontal.html name="Pengyue Jia" affiliation="City University of Hong Kong" url="https://jia-py.github.io/" img="assets/img/jpy.jpg" %}
   {% include people_horizontal.html name="Qingpeng Cai" affiliation="Kuaishou" url="https://qingpengcai.github.io/" img="assets/img/qc.jpg" %}
   {% include people_horizontal.html name="Xiangyu Zhao" affiliation="City University of Hong Kong" url="https://zhaoxyai.github.io/" img="assets/img/xz.jpg" %}
   {% include people_horizontal.html name="Ling Pan" affiliation="Hong Kong University of Science and Technology" url="https://ling-pan.github.io/" img="assets/img/lp.jpg" %}
@@ -65,8 +65,8 @@ Agent4IR Workshop: July 17, 2025 -->
   {% include people_horizontal.html name="Weinan Zhang" affiliation="Shanghai Jiaotong University" url="https://wnzhang.net/" img="assets/img/wz.jpg" %}
   {% include people_horizontal.html name="Li Zhao" affiliation="Microsoft Research Asia" url="https://www.microsoft.com/en-us/research/people/lizo/" img="assets/img/lz.jpg" %}
   {% include people_horizontal.html name="Dawei Yin" affiliation="Baidu" url="https://www.yindawei.com/" img="assets/img/dy.jpg" %}
-  {% include people_horizontal.html name="Grace Hui Yang" affiliation="Georgetown University" url="https://infosense.cs.georgetown.edu/grace/" img="assets/img/ghy.jpg" %}
-</div> -->
+  {% include people_horizontal.html name="Grace Hui Yang" affiliation="Georgetown University" url="https://infosense.cs.georgetown.edu/grace/" img="assets/img/ghy.jpg" %} -->
+<!-- </div> -->
 
 ## Contact
 If you have any questions, please contact us at liuqidong@stu.xjtu.edu.cn.
